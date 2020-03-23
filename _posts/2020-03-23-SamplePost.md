@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "EXAMPLE POST"
 date: 2020-03-23
 ---
