@@ -2,6 +2,7 @@
 layout: post
 title: "EXAMPLE POST"
 date: 2020-03-23
+published: true
 ---
 
 ## Post Example 
