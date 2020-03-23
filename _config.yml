@@ -5,4 +5,4 @@ author: Michael Mayberry
 email: mayberry2@wisc.edu
 description: > # this means to ignore newlines until "baseurl:"
   
-show_excerpts: true # set to false to remove excerpts on the homepag
+show_excerpts: false # set to false to remove excerpts on the homepag
