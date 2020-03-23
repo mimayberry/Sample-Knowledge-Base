@@ -5,3 +5,4 @@ Keep in mind this is a bare bones mockup of how this site will look. Use the  **
 
 ![WEMPEC last day](https://user-images.githubusercontent.com/48141733/77356286-00e4f580-6d14-11ea-8bd3-64114883bcd2.jpg)
 
+[View on GitHub](https://github.com/mimayberry/Sample-Knowledge-Base)
