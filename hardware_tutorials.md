@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hardware Tutorials"
-permalink: /Sample-Knowledge-Base/Hardware/
+permalink: /Hardware/
 ---
 
 These page is used to store resources useful for building things.
