@@ -1,6 +1,6 @@
 title: Severson Group Knowledge Base
-theme: minima
-#theme: jekyll-theme-slate
+#theme: minima
+theme: jekyll-theme-slate
 author: Michael Mayberry
 email: mayberry2@wisc.edu
 description: > # this means to ignore newlines until "baseurl:"
