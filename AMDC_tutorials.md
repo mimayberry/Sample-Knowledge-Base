@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "AMDC"
-permalink: /Sample-Knowledge-Base/
+permalink: /AMDC/
 ---
 
 Here are some resources relating to the AMDC. We could also store board logs and other AMDC related things.
